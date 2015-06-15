@@ -1,0 +1,42 @@
+form{
+	text-align: center;
+
+}
+
+.btnGuardar{
+	margin-top: 15px;
+}
+
+img.loguito{
+	float: left;
+	
+}
+img.logoo{
+	float: right;
+
+}
+body{
+	padding: 0;
+	margin: 0;
+}
+#contenedor{
+	padding-top: 300px;
+}
+section{
+	width: 60%;
+	margin: 0 auto;
+	background: #c0c0c0;
+	padding: 20px;
+}
+
+ a{
+	padding: 10px;
+	background: #00c0ff;
+	text-decoration: none;
+	color: #000000;
+}
+
+a:hover{
+	background: #fffff3;
+	border-radius: 10px;
+}
